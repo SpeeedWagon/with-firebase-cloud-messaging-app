@@ -12,7 +12,7 @@ const firebaseCloudMessaging = {
       apiKey: "AIzaSyAmIHvAe-EOYY-TUPkcb_Byi74j7qqG9dY",
       projectId: "pushnotifications-8d42a",
       messagingSenderId: "677674369528",
-      appId: "1:677674369528:web:b6587b25498789fce1160d",
+      appId: "1:677674369528:web:1926ecb152fcb5a8e1160d",
     });
 
     try {
